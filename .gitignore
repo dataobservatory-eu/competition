@@ -4,3 +4,4 @@
 .Ruserdata
 public/
 competition.Rproj
+.hugo_build.lock

@@ -1,8 +1,8 @@
 ---
-title: "stacodelists: use standard, language-independent variable codes to help international data interoperability and machine reuse in R"
-subtitle: "An R data package with all the SDMX standard codelists"
+title: "stacodelists: n R data package with all the SDMX standard codelists"
+subtitle: "Use standard, language-independent variable codes to help international data interoperability and machine reuse in R"
 date: 2022-06-29T08:12:00+01:00
-lastmod: 2022-06-29T08:12:00+01:00
+lastmod: 2022-08-25T08:20:24+02:00
 draft: false
 
 authors: ["daniel_antal"]
@@ -13,7 +13,6 @@ summary: "A new building block of our observatories went through code peer revie
 
 # Featured image
 image:
-  # Caption (optional)
   caption: "Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)."
 
   # Focal point (optional)
@@ -24,11 +23,11 @@ image:
   preview_only: true
 
 ---
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/statcodelists_website.png" caption="Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)." numbered="false" >}}</td>
+
+<td style="text-align: center;">{{< figure src="/img/blogposts_2022/statcodelists_0_9_2.png" caption="Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)." numbered="false" >}}</td>
 
 <!-- badges: start -->
-[![dataobservatory](https://img.shields.io/badge/ecosystem-dataobservatory.eu-3EA135.svg)](https://dataobservatory.eu/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6751783.svg)](https://doi.org/10.5281/zenodo.6751783)
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6751783.svg)](https://doi.org/10.5281/zenodo.6751783)
 <!-- badges: end -->
 
 The goal of `statcodelists` is to promote the reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user. SDMX – the [Statistical Data and Metadata eXchange](https://sdmx.org/) has been published as an ISO International Standard (ISO 17369). The metadata definitions, including the codelists are updated regularly according to the standard. The authoritative version of the code lists made available in this package is <https://sdmx.org/?page_id=3215/>.
@@ -67,4 +66,3 @@ The creator of this package is not affiliated with SDMX, and this package was ha
 ## Code of Conduct
 
 Please note that the `statcodelists` project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
-
