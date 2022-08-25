@@ -63,7 +63,7 @@ We aim to win at least one first prize in the EU Datathon 2021. We are contestin
 
 ## Challenge 1: A European Grean Deel
 
-{{< figure src="/media/img/observatory_screenshots/GD_Observatory_opening_page.png" caption="Our Green Deal Data Observatory connects socio-economic and environmental data to help understanding and combating climate change." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/GD_Observatory_opening_page.png" caption="Our Green Deal Data Observatory connects socio-economic and environmental data to help understanding and combating climate change." numbered="true" >}}
 
 Challenge 1: [A European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), with a particular focus on the [The European Climate Pact](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2323), the [Organic Action Plan](https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming/organic-action-plan_en), and the [New European Bauhaus](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_111), i.e., mitigation strategies.
 
@@ -75,7 +75,7 @@ We provide high quality, tidy data through a modern API which enables data flows
 
 ## Challenge 2: An economy that works for people
 
-{{< figure src="/media/img/observatory_screenshots/edo_opening_page.jpg" caption="Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/edo_opening_page.jpg" caption="Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization." numbered="true" >}}
 
 Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), with a particular focus on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en), and particular attention to the strategy’s goals of 1. Modernising our standards system, 2. Consolidating Europe’s intellectual property framework, and 3. Enabling the balanced development of the collaborative economy strategic goals.
 
@@ -87,7 +87,7 @@ We would like to create early-warning, risk, economic effect, and impact indicat
 
 ## Challenge 3: A Europe fit for the digital age
 
-{{< figure src="/media/img/observatory_screenshots/dmo_opening_screen.png" caption="Our Digital Music Observatory is not only a demo of the European Music Observatory, but a testing ground for data governance, Digital Servcies Act, and trustworthy AI problems." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/dmo_opening_screen.png" caption="Our Digital Music Observatory is not only a demo of the European Music Observatory, but a testing ground for data governance, Digital Servcies Act, and trustworthy AI problems." numbered="true" >}}
 
 Challenge 3: [A Europe fit for the digital age](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en), with a particular focus [Artificial Intelligence](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en), the [European Data Strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en), the [Digital Services Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en), [Digital Skills](https://digital-strategy.ec.europa.eu/en/policies/digital-skills-and-jobs) and [Connectivity](https://digital-strategy.ec.europa.eu/en/policies/connectivity).
 
@@ -107,7 +107,7 @@ As open science principles gain increased acceptance, scientific researchers are
 
 The EU, the OECD, and UN institutions run around 100 data collection programs, so-called ‘data observatories’ that more or less avoid touching this data, and buy proprietary data instead. Annually, each observatory spends between 50 thousand and 3 million EUR on collecting untidy and proprietary data of inconsistent quality, while never even considering open data.
 
-{{< figure src="/media/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our automated data observatories are modern reimaginations of the existing observatories that do not use open data and research automation." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our automated data observatories are modern reimaginations of the existing observatories that do not use open data and research automation." numbered="true" >}}
 
 The problem with the current EU data strategy is that while it produces enormous quantities of valuable open data, in the absence of common basic data science and documentation principles, it seems often cheaper to create new data than to put the existing open data into shape.
 
@@ -121,7 +121,7 @@ What we want to achieve with this project – and we believe such an accomplishm
 
 2. We create a research workflow that periodically (daily, weekly, monthly, quarterly or annually) collects, corrects and re-processes the data. We use peer-reviewed statistical software and unit-tests to make sure that the data is sound.
 
-{{< figure src="/media/img/slides/gold_panning_slide_notitle.png" caption="Panning out gold from muddy open sources - with automation technology." numbered="false" >}}
+{{< figure src="/img/slides/gold_panning_slide_notitle.png" caption="Panning out gold from muddy open sources - with automation technology." numbered="false" >}}
 
 3. We add value with correcting open (and proprietary!) data problems that make open data hard to use, and proprietary, in-house data hard to re-use.
     - [regions](https://regions.dataobservatory.eu/) corrects inconsistent geographical coding. Eurostat has no mandate to correct geographical coding, and member states do not historically adjust their data. With many thousands of parish, county, region, province, state boundary changes within states, regional and metropolitian area datasets are not usable without our software.
