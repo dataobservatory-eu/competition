@@ -1,31 +1,31 @@
-+++
-title = "Including Indicators from Arab Barometer in Our Observatory"
-subtitle = "New version of retroharmonize released on CRAN"
-date = 2021-06-28T09:00:00
-lastmod = 2021-06-28T09:00:00
-draft = false
+---
+title: "Including Indicators from Arab Barometer in Our Observatory"
+subtitle: "New version of retroharmonize released on CRAN"
+date: 2021-06-28T09:00:00
+lastmod: 2021-06-28T09:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["open-data", "open-science", "R", "data collection", "Arab Barometer", "survey harmonization"]
+tags: ["open-data", "open-science", "R", "data collection", "Arab Barometer", "survey harmonization"]
 
-summary = "A new version of the retroharmonize R package – which is working with retrospective, ex post harmonization of survey data – was released yesterday after peer-review on CRAN. It allows us to compare opinion polling data from the Arab Barometer with the Eurobarometer and Afrorbarometer. This is the first version that is released in the rOpenGov community, a community of R package developers on open government data analytics and related topics."
+summary: "A new version of the retroharmonize R package – which is working with retrospective, ex post harmonization of survey data – was released yesterday after peer-review on CRAN. It allows us to compare opinion polling data from the Arab Barometer with the Eurobarometer and Afrorbarometer. This is the first version that is released in the rOpenGov community, a community of R package developers on open government data analytics and related topics."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Climate Awareness in the Arab World. Get this plot from      [figshare](https://doi.org/10.6084/m9.figshare.14854359)."
+  caption: "Climate Awareness in the Arab World. Get this plot from      [figshare](https://doi.org/10.6084/m9.figshare.14854359)."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 *A new version of the retroharmonize R package – which is working with retrospective, ex post harmonization of survey data – was released yesterday after peer-review on CRAN. It allows us to compare opinion polling data from the Arab Barometer with the Eurobarometer and Afrorbarometer. This is the first version that is released in the rOpenGov community, a community of R package developers on open government data analytics and related topics.*
 
@@ -75,8 +75,8 @@ file formatting legacy.
 In our new [Arab Barometer case
 study](https://retroharmonize.dataobservatory.eu/articles/arabbarometer.html),
 the evaulation of parliamentary elections has the following labels. We
-code them consistently `1 = free_and_fair`, `2 = some_minor_problems`,
-`3 = some_major_problems` and `4 = not_free`.
+code them consistently `1: free_and_fair`, `2: some_minor_problems`,
+`3: some_major_problems` and `4: not_free`.
 
 <table>
 <colgroup>

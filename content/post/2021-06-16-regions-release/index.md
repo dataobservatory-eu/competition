@@ -1,31 +1,31 @@
-+++
-title = "There are Numerous Advantages of Switching from a National Level of the Analysis to a Sub National Level"
-subtitle = "Maping Regional Data, Maping Metadata Problems"
-date = 2021-06-16T12:00:00
-lastmod = 2021-06-16T12:00:00
-draft = false
+---
+title: "There are Numerous Advantages of Switching from a National Level of the Analysis to a Sub National Level"
+subtitle: "Maping Regional Data, Maping Metadata Problems"
+date: 2021-06-16T12:00:00
+lastmod: 2021-06-16T12:00:00
+draft: false
 
-authors = ["daniel_antal", "rOpenGov", "leo_lahti", "kasia_kulma"]
+authors: ["daniel_antal", "rOpenGov", "leo_lahti", "kasia_kulma"]
 
-tags = ["open-data", "open-science", "regional data", "sub-national data", "R", "data collection"]
+tags: ["open-data", "open-science", "regional data", "sub-national data", "R", "data collection"]
 
-summary = "There are numerous advantages of switching from a national level of the analysis to a sub-national level comes with a huge price in data processing, validation and imputation, and the regions package aims to help this process."
+summary: "There are numerous advantages of switching from a national level of the analysis to a sub-national level comes with a huge price in data processing, validation and imputation, and the regions package aims to help this process."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Annette Wong"
+  caption: "Annette Wong"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 {{< figure src="/media/img/package_screenshots/regions_017_169.png" numbered="false" >}}
 

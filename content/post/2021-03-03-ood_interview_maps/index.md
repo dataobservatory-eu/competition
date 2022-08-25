@@ -1,31 +1,31 @@
-+++
-title = "Open Data Day Interview: Mapping Data with Milos Popovic"
+---
+title: "Open Data Day Interview: Mapping Data with Milos Popovic"
 
-date = 2021-03-03T22:23:00+02:00
-lastmod = 2021-03-03T22:23:00+02:00
-draft = false
+date: 2021-03-03T22:23:00+02:00
+lastmod: 2021-03-03T22:23:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["open data", "music-observatory", "open data day", "maps"]
+tags: ["open data", "music-observatory", "open data day", "maps"]
 
-summary = "Milos Popovic is a researcher, a data scientist, Marie Curie postdoc & Top 10 dataviz & R contributor on Twitter according to NodeXL. He is going to join the Data & Lyrics team on International Open Data Day to help us put harmonized environmental degradation perception and environmental sensory data on maps. We asked him four questions about his passion, mapping data. Please join us 6 March 2021 9.30 EST / 15.30 CET for an informal digital coffee."
+summary: "Milos Popovic is a researcher, a data scientist, Marie Curie postdoc & Top 10 dataviz & R contributor on Twitter according to NodeXL. He is going to join the Data & Lyrics team on International Open Data Day to help us put harmonized environmental degradation perception and environmental sensory data on maps. We asked him four questions about his passion, mapping data. Please join us 6 March 2021 9.30 EST / 15.30 CET for an informal digital coffee."
 
-projects = ["music-observatory"]
+projects: ["music-observatory"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Interactive map taken milosp.info © Miloš Popović and Aleksandar Popović"
+  caption: "Interactive map taken milosp.info © Miloš Popović and Aleksandar Popović"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point: "Left"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 *Milos Popovic is a researcher, a data scientist, Marie Curie postdoc & Top 10 dataviz & R contributor on Twitter according to NodeXL. He took part in policy debates about terrorism and military intervention and appeared on a number of TV channels including N1 (the CNN affiliate in the Western Balkans), Serbian National Television and Al-Jazeera Balkans. My research interests are at the intersection of civil war dynamics and postwar politics in the Balkans. He is going to join the Data & Lyrics team on International Open Data Day to help us put harmonized environmental degradation perception and environmental sensory data on maps. We asked him four questions about his passion, mapping data. Please join us 6 March 2021 9.30 EST / 15.30 CET for an informal digital coffee.*
 

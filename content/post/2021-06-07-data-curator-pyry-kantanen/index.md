@@ -1,31 +1,31 @@
-+++
-title = "Comparing Data to Oil is a Cliché: Crude Oil Has to Go Through a Number of Steps and Pipes Before it Becomes Useful"
-subtitle = "Introducing Our Developers"
-date = 2021-06-07T10:00:00
-lastmod = 2021-06-07T10:00:00
-draft = false
+---
+title: "Comparing Data to Oil is a Cliché: Crude Oil Has to Go Through a Number of Steps and Pipes Before it Becomes Useful"
+subtitle: "Introducing Our Developers"
+date: 2021-06-07T10:00:00
+lastmod: 2021-06-07T10:00:00
+draft: false
 
-authors = ["pyry_kantanen"]
+authors: ["pyry_kantanen"]
 
-tags = ["open-data", "open-science", "reproducible research", "open government", "Eurovision", "musicology"]
+tags: ["open-data", "open-science", "reproducible research", "open government", "Eurovision", "musicology"]
 
-summary = "Many interesting phenomena are difficult to quantify in a meaningful way and writing a catchy song with international appeal is probably more an art than a science. Nevertheless that should not deter us from trying as music, too, is bound by certain rules and regularities that can be researched."
+summary: "Many interesting phenomena are difficult to quantify in a meaningful way and writing a catchy song with international appeal is probably more an art than a science. Nevertheless that should not deter us from trying as music, too, is bound by certain rules and regularities that can be researched."
 
-projects = ["eu-datathon_2021", "listen-local"]
+projects: ["eu-datathon_2021", "listen-local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Pyry Kantanen"
+  caption: "Pyry Kantanen"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 **As a developer at rOpenGov, and as an economic sociologist, what type of data do you usually use in your work?**
 

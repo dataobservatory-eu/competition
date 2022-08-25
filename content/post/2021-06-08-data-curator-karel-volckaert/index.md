@@ -1,31 +1,31 @@
-+++
-title = "Credibility is Enhanced Through Cross Links Between Different Data from Different Domains"
-subtitle = "Introducing Our Data Curators"
-date = 2021-06-08T18:50:00
-lastmod = 2021-06-08T18:50:00
-draft = false
+---
+title: "Credibility is Enhanced Through Cross Links Between Different Data from Different Domains"
+subtitle: "Introducing Our Data Curators"
+date: 2021-06-08T18:50:00
+lastmod: 2021-06-08T18:50:00
+draft: false
 
-authors = ["karel_volckaert"]
+authors: ["karel_volckaert"]
 
-tags = ["open-data", "open-science", "reproducible research", "open government"]
+tags: ["open-data", "open-science", "reproducible research", "open government"]
 
-summary = "Credibility is enhanced through cross-links between different data from different domains that “does not disprove” one another or that is internally consistent. If, say, data on taxable income goes in one direction and taxes in another, it is the reasoned reconciliation of the - alleged or real - inconsistency that will validate the comprehensive data set. So I am a great believer in broad, real-time observatories where not only the data capture, but the data reconciliation is automated, sometimes by means of a simple comparative statics analysis, in other cases maybe through quite elaborate artificial intelligence."
+summary: "Credibility is enhanced through cross-links between different data from different domains that “does not disprove” one another or that is internally consistent. If, say, data on taxable income goes in one direction and taxes in another, it is the reasoned reconciliation of the - alleged or real - inconsistency that will validate the comprehensive data set. So I am a great believer in broad, real-time observatories where not only the data capture, but the data reconciliation is automated, sometimes by means of a simple comparative statics analysis, in other cases maybe through quite elaborate artificial intelligence."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Karel Volckaert"
+  caption: "Karel Volckaert"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 **As a consultant, what type of data do you usually work with?**
 

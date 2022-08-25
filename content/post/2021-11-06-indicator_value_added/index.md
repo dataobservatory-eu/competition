@@ -1,31 +1,31 @@
-+++
-title = "How We Add Value to Public Data With Imputation and Forecasting"
-subtitle = ""
-date = 2021-11-08T10:00:00+01:00
-lastmod = 2021-11-11T11:01:00+01:00
-draft = false
+---
+title: "How We Add Value to Public Data With Imputation and Forecasting"
+subtitle: ""
+date: 2021-11-08T10:00:00+01:00
+lastmod: 2021-11-11T11:01:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Digital Music Observatory","data-as-service", "API", "metadata", "forecasting", "missing data"]
+tags: ["Digital Music Observatory","data-as-service", "API", "metadata", "forecasting", "missing data"]
 
-summary = "Public data sources are often plagued with missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information which will destroy your beautiful visualization or stop your application from working. In this example we show how we increase the usable subset of a public dataset by 66.7%, rendering useful what would otherwise have been a deal-breaker in panel regressions or machine learning applications."
+summary: "Public data sources are often plagued with missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information which will destroy your beautiful visualization or stop your application from working. In this example we show how we increase the usable subset of a public dataset by 66.7%, rendering useful what would otherwise have been a deal-breaker in panel regressions or machine learning applications."
 
-projects = ""
+projects: ""
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 Public data sources are often plagued by missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information. This approach of ignoring or dropping missing values will not be feasible or robust when you want to make a beautiful visualization, or use data in a business forecasting model, a machine learning (AI) applicaton, or a more complex scientific model. All of the above require complete datasets, and naively discarding missing data points amounts to an excessive waste of information. In this example we are continuing the example a not-so-easy to find public dataset.
 

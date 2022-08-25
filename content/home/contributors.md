@@ -1,26 +1,26 @@
-+++
+---
 # A "Meet the Team" section created with the People widget.
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
-widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 55  # Order that this section will appear.
+widget: "people"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 55  # Order that this section will appear.
 
-title = "Contributors of the Competition Music Observatory"
-subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)! More about contributing: [Automated Observatory Contributors’ Handbook](http://curators.dataobservatory.eu/)."
+title: "Contributors of the Competition Music Observatory"
+subtitle: "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)! More about contributing: [Automated Observatory Contributors’ Handbook](http://curators.dataobservatory.eu/)."
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["developers", "data curators", "service development team", "institutional partners", "join us"]
+  user_groups: ["developers", "data curators", "service development team", "institutional partners", "join us"]
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social: false
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests: true
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,23 +29,23 @@ subtitle = "Join our open collaboration team as a [data curator](/authors/curato
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color: "navy"
 
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  # gradient_start: "DeepSkyBlue"
+  # gradient_end: "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image: "background.jpg"  # Name of image in `static/img/`.
+  # image_darken: 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true
+  # text_color_light: true
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ css_style: ""
 
  # CSS class.
- css_class = ""
-+++
+ css_class: ""
+---

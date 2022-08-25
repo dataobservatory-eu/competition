@@ -20,9 +20,9 @@ doi: ""
 publishDate: "2021-03-16T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# Legend: 0: Uncategorized; 1: Conference paper; 2: Journal article;
+# 3: Preprint / Working Paper; 4: Report; 5: Book; 6: Book section;
+# 7: Thesis; 8: Patent
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
@@ -159,20 +159,20 @@ and regions.
 
     transition_policy <- eb19_raw %>%
       rowid_to_column() %>%
-      mutate ( transition_policy = normalize_text(transition_policy)) %>%
-      fastDummies::dummy_cols(select_columns = 'transition_policy') %>%
-      mutate ( transition_policy_agree = case_when(
+      mutate ( transition_policy: normalize_text(transition_policy)) %>%
+      fastDummies::dummy_cols(select_columns: 'transition_policy') %>%
+      mutate ( transition_policy_agree: case_when(
         transition_policy_totally_agree + transition_policy_tend_to_agree > 0 ~ 1, 
         TRUE ~ 0
       )) %>%
-      mutate ( transition_policy_disagree = case_when(
+      mutate ( transition_policy_disagree: case_when(
         transition_policy_totally_disagree + transition_policy_tend_to_disagree > 0 ~ 1, 
         TRUE ~ 0
       )) 
 
     eb19_df  <- transition_policy %>% 
-      left_join ( air_pollutants, by = 'region_nuts_codes' ) %>%
-      mutate ( is_poland = ifelse ( country_code == "PL", 1, 0))
+      left_join ( air_pollutants, by: 'region_nuts_codes' ) %>%
+      mutate ( is_poland: ifelse ( country_code == "PL", 1, 0))
 
 ## Preliminary Results
 
@@ -201,14 +201,14 @@ A simple model run:
                      age_exact +
                      is_highly_educated + is_rural + is_coal_region +
                      country_code, 
-                   data = eb19_df, 
-                   family = binomial ))
+                   data: eb19_df, 
+                   family: binomial ))
 
     ## 
     ## Call:
-    ## glm(formula = transition_policy_totally_agree ~ pm10 + so2 + 
+    ## glm(formula: transition_policy_totally_agree ~ pm10 + so2 + 
     ##     age_exact + is_highly_educated + is_rural + is_coal_region + 
-    ##     country_code, family = binomial, data = eb19_df)
+    ##     country_code, family: binomial, data: eb19_df)
     ## 
     ## Deviance Residuals: 
     ##     Min       1Q   Median       3Q      Max  
@@ -261,13 +261,13 @@ A simple model run:
 
     summary( glm ( transition_policy_agree ~ pm10 + so2 + age_exact +
                      is_highly_educated + is_rural, 
-                   data = eb19_df, 
-                   family = binomial ))
+                   data: eb19_df, 
+                   family: binomial ))
 
     ## 
     ## Call:
-    ## glm(formula = transition_policy_agree ~ pm10 + so2 + age_exact + 
-    ##     is_highly_educated + is_rural, family = binomial, data = eb19_df)
+    ## glm(formula: transition_policy_agree ~ pm10 + so2 + age_exact + 
+    ##     is_highly_educated + is_rural, family: binomial, data: eb19_df)
     ## 
     ## Deviance Residuals: 
     ##     Min       1Q   Median       3Q      Max  

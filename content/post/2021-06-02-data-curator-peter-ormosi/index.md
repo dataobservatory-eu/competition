@@ -1,31 +1,31 @@
-+++
-title = "New Indicators for Computational Antitrust"
-subtitle = "Introducing Our Data Curators"
-date = 2021-06-02T17:00:00
-lastmod = 2021-06-02T17:00:00
-draft = false
+---
+title: "New Indicators for Computational Antitrust"
+subtitle: "Introducing Our Data Curators"
+date: 2021-06-02T17:00:00
+lastmod: 2021-06-02T17:00:00
+draft: false
 
-authors = ["peter_ormosi"]
+authors: ["peter_ormosi"]
 
-tags = ["open-data", "open-science", "computational antitrust","curators", "economics"]
+tags: ["open-data", "open-science", "computational antitrust","curators", "economics"]
 
-summary = "I believe that there is an immensely rich, and largely unexplored source of information in unstructured textual data that would be hugely useful for applied microeconomic works, including my own area of IO and competition policy."
+summary: "I believe that there is an immensely rich, and largely unexplored source of information in unstructured textual data that would be hugely useful for applied microeconomic works, including my own area of IO and competition policy."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 **As someone who’s worked in data for almost 20 years, what type of data do you usually use in your research?**
 

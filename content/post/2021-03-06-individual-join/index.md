@@ -75,7 +75,7 @@ that aggregates the data on regional levels.
     panel <- readRDS((file.path(data_raw_dir, "climate-panel.rds")))
 
     climate_data_geocode <-  panel %>%
-      mutate ( year = lubridate::year(date_of_interview)) %>%
+      mutate ( year: lubridate::year(date_of_interview)) %>%
       recode_nuts()
 
 Let’s join the air pollution data and join it by corrected geocodes:
@@ -83,17 +83,17 @@ Let’s join the air pollution data and join it by corrected geocodes:
     load(file.path("data", "air_pollutants.rda")) ## good practice to use system-independent file.path
 
     climate_awareness_air <- climate_data_geocode %>%
-      rename ( region_nuts_codes  = .data$code_2016) %>%
-      left_join ( air_pollutants, by = "region_nuts_codes" ) %>%
+      rename ( region_nuts_codes : .data$code_2016) %>%
+      left_join ( air_pollutants, by: "region_nuts_codes" ) %>%
       select ( -all_of(c("w1", "wex", "date_of_interview", 
                          "typology", "typology_change", "geo", "region"))) %>%
       mutate (
         # remove special labels and create NA_numeric_ 
-        age_education = retroharmonize::as_numeric(age_education)) %>%
+        age_education: retroharmonize::as_numeric(age_education)) %>%
       mutate_if ( is.character, as.factor) %>%
       mutate ( 
         # we only have responses from 4 years, and this should be treated as a categorical variable
-        year = as.factor(year) 
+        year: as.factor(year) 
         ) %>%
       filter ( complete.cases(.) ) 
 
@@ -206,21 +206,21 @@ climate change as the most important global problem in Europe.
     fit <- rpart(as.factor(serious_world_problems_first) ~ .,
        method="class", data=climate_awareness_air %>%
          select ( - all_of(c("rowid", "region_nuts_codes"))), 
-       control = rpart.control(cp = 0.005))
+       control: rpart.control(cp: 0.005))
 
     printcp(fit) # display the results
 
     ## 
     ## Classification tree:
-    ## rpart(formula = as.factor(serious_world_problems_first) ~ ., 
-    ##     data = climate_awareness_air %>% select(-all_of(c("rowid", 
-    ##         "region_nuts_codes"))), method = "class", control = rpart.control(cp = 0.005))
+    ## rpart(formula: as.factor(serious_world_problems_first) ~ ., 
+    ##     data: climate_awareness_air %>% select(-all_of(c("rowid", 
+    ##         "region_nuts_codes"))), method: "class", control: rpart.control(cp: 0.005))
     ## 
     ## Variables actually used in tree construction:
     ## [1] age_education                         isocntry                             
     ## [3] serious_world_problems_climate_change year                                 
     ## 
-    ## Root node error: 12817/75086 = 0.1707
+    ## Root node error: 12817/75086: 0.1707
     ## 
     ## n= 75086 
     ## 
@@ -236,9 +236,9 @@ climate change as the most important global problem in Europe.
     summary(fit) # detailed summary of splits
 
     ## Call:
-    ## rpart(formula = as.factor(serious_world_problems_first) ~ ., 
-    ##     data = climate_awareness_air %>% select(-all_of(c("rowid", 
-    ##         "region_nuts_codes"))), method = "class", control = rpart.control(cp = 0.005))
+    ## rpart(formula: as.factor(serious_world_problems_first) ~ ., 
+    ##     data: climate_awareness_air %>% select(-all_of(c("rowid", 
+    ##         "region_nuts_codes"))), method: "class", control: rpart.control(cp: 0.005))
     ##   n= 75086 
     ## 
     ##            CP nsplit rel error    xerror        xstd
@@ -382,12 +382,12 @@ climate change as the most important global problem in Europe.
        main="Classification Tree: Climate Change Is The Most Serious Threat")
     text(fit, use.n=TRUE, all=TRUE, cex=.8)
 
-    ## Warning in labels.rpart(x, minlength = minlength): more than 52 levels in a
+    ## Warning in labels.rpart(x, minlength: minlength): more than 52 levels in a
     ## predicting factor, truncated for printout
 
 !["predicting factor, truncated for printout"](rpart-2.png)
 
-    saveRDS ( climate_awareness_air , file.path(tempdir(), "climate_panel_recoded.rds"), version = 2)
+    saveRDS ( climate_awareness_air , file.path(tempdir(), "climate_panel_recoded.rds"), version: 2)
 
     # not evaluated
-    saveRDS( climate_awareness_air, file = file.path("data-raw", "climate-panel_recoded.rds"))
+    saveRDS( climate_awareness_air, file: file.path("data-raw", "climate-panel_recoded.rds"))

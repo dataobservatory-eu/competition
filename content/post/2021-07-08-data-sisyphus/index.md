@@ -1,31 +1,31 @@
-+++
-title = "The Data Sisyphus"
-subtitle = ""
-date = 2021-07-08T09:00:00
-lastmod = 2021-07-08T09:00:00
-draft = false
+---
+title: "The Data Sisyphus"
+subtitle: ""
+date: 2021-07-08T09:00:00
+lastmod: 2021-07-08T09:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["metadata","data-as-service", "api"]
+tags: ["metadata","data-as-service", "api"]
 
-summary = "Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is the final, checked, approved by a senior manager?"
+summary: "Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is the final, checked, approved by a senior manager?"
 
-projects = ""
+projects: ""
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Sisyphus lying under grindstone Bodleian Library, University of Oxford. [Wikimedia](https://commons.wikimedia.org/wiki/Category:Sisyphus#/media/File:Midevil_sysiphus.jpeg)"
+  caption: "Sisyphus lying under grindstone Bodleian Library, University of Oxford. [Wikimedia](https://commons.wikimedia.org/wiki/Category:Sisyphus#/media/File:Midevil_sysiphus.jpeg)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  This is the price that project managers and analysts pay for the inadequate documentation of their data assets." numbered="false" >}}</td>
 
 *When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is an intermediate format of a spreadsheet file, and which is the final, checked, approved by a senior manager?*

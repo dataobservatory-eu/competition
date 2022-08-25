@@ -1,31 +1,31 @@
-+++
-title = "Open Data is Like Gold in the Mud Below the Chilly Waves of Mountain Rivers"
-subtitle = "Introducing Our Service Development Team"
-date = 2021-06-10T07:00:00
-lastmod = 2021-06-10T09:00:00
-draft = false
+---
+title: "Open Data is Like Gold in the Mud Below the Chilly Waves of Mountain Rivers"
+subtitle: "Introducing Our Service Development Team"
+date: 2021-06-10T07:00:00
+lastmod: 2021-06-10T09:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["open-data", "open-science", "trustworthy AI", "service-design", "data collection"]
+tags: ["open-data", "open-science", "trustworthy AI", "service-design", "data collection"]
 
-summary = "Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine. I think we will come to as surprising and strong findings as Bellingcat, but we are not focusing on individual events and stories, but on social and environmental processes and changes."
+summary: "Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine. I think we will come to as surprising and strong findings as Bellingcat, but we are not focusing on individual events and stories, but on social and environmental processes and changes."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Daniel Antal, CFA"
+  caption: "Daniel Antal, CFA"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 {{< figure src="/media/img/slides/gold_panning_slide_notitle.png" caption="Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine." numbered="true" >}}
 
