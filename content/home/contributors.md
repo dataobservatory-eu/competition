@@ -5,10 +5,10 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 55  # Order that this section will appear.
 
-title = "Contributors of the Digital Music Observatory"
-subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)! More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/)."
+title = "Contributors of the Competition Music Observatory"
+subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)! More about contributing: [Automated Observatory Contributors’ Handbook](http://curators.dataobservatory.eu/)."
 
 [content]
   # Choose which groups/teams of users to display.

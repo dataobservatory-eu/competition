@@ -45,7 +45,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/DigitalMusicObs'
+      link: 'https://twitter.com/dataandlyrics'
     - icon: linkedin
       icon_pack: fab
       link: https://www.linkedin.com/company/79286750/
