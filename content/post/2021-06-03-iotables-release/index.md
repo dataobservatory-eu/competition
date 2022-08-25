@@ -60,7 +60,7 @@ is to keep vectors and matrices, which have at least one dimension of
 [eurostat](https://CRAN.R-project.org/package=eurostat) on
 [rOpenGov](http://ropengov.org/)
 
-{{< figure src="/media/img/package_screenshots/iotables_0_4_5.png" caption="Our iotables package creates direct, indirect effects and multipliers programatically. Our observatory will make those indicators available for all European countries." numbered="true" >}}
+{{< figure src="/img/package_screenshots/iotables_0_4_5.png" caption="Our iotables package creates direct, indirect effects and multipliers programatically. Our observatory will make those indicators available for all European countries." numbered="true" >}}
 
 ## Accessing and tidying the data programmatically
 
@@ -302,7 +302,7 @@ the daylight yet.
 
 ## rOpenGov and the EU Datathon Challenges
 
-{{< figure src="/media/img/partners/rOpenGov-intro.png" caption="rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities." numbered="true" >}}
+{{< figure src="/img/partners/rOpenGov-intro.png" caption="rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities." numbered="true" >}}
 
 
 [rOpenGov](http://ropengov.org/) is a community of open governmental

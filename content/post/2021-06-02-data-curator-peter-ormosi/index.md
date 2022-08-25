@@ -35,19 +35,19 @@ In my field (industrial organisation, competition policy), company level financi
 
 There seems to be an emerging consensus that market concentration and markups have been continuously increasing across the economy. But most of these works use industry classification to define markets. One of the things I’d really like to see coming out of the Economy Data Observatory is a mapping of what we call antitrust markets. 
 
-{{< figure src="/media/img/blogposts_2021/nace_antitrust_map.png" caption="Mapping NACE to Antitrust Markets." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/nace_antitrust_map.png" caption="Mapping NACE to Antitrust Markets." numbered="true" >}}
 
 Available datasets use standard industry classification (such as NACE in the EU), which is often very different from what we call a product market in microeconomics. Product markets are defined by demand, and supply-side substitutability, which is a dynamically evolving feature and difficult to capture systematically on a wider scale. But with the recent proliferation of data and the growth (and fall in price) of computing power, I am positive that we could attempt to map out the European economy along these product market boundaries. Of course this is not without any challenge. For example in digital markets, traditional ways to define markets have caused serious challenges to competition authorities around the world.  
 
 I believe that there is an immensely rich, and largely unexplored source of information in unstructured textual data that would be hugely useful for applied microeconomic works, including my own area of IO and competition policy. This includes a large corpus of administrative and court decisions that relate to businesses, such as merger control decisions of the European Commission. To give two examples from my experience, we’ve used a large corpus of news reports related to various firms to gauge the reputational impact of European Commission cartel investigations, or we’ve trained an algorithm to be able to classify US legislative bills and predict whether they have been lobbied or not. Finding a way to collect and convert this unstructured data into a format that is relevant and useful for users is not a trivial challenge, but is one of the most exciting parts of our Economy Data Observatory plans (see related [project plan](https://economy.dataobservatory.eu/post/2021-06-02-data-curator-peter-ormosi/)).
 
-{{< figure src="/media/img/blogposts_2021/lobbying_activity.png" caption="Finding a way to collect and convert this unstructured data into a format that is relevant and useful for users is not a trivial challenge, but is one of the most exciting parts of our Economy Data Observatory plans." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/lobbying_activity.png" caption="Finding a way to collect and convert this unstructured data into a format that is relevant and useful for users is not a trivial challenge, but is one of the most exciting parts of our Economy Data Observatory plans." numbered="true" >}}
 
 **What is an idea that you consider will be a game changer for researchers and/or policymakers?**
 
 Partly talking in the past tense, the use of data driven approaches, automation in research, and machine learning have been increasingly influential and I think this trend will continue to all areas of social science. 10 years ago, to do machine learning, you had to build your models from scratch, typically requiring a solid understanding of programming and linear algebra. Today, there are readily available deep learning frameworks like TensorFlow, Keras, PyTorch, to design a neural network for your own application. 10 years ago, natural language processing would have only been relevant for a small group of computational linguists. Today we have massive word embedding models trained on an enormous corpus of texts, at the fingertip of any researcher. 10 years ago, the cost of computing power would have made it prohibitive for most researchers to run even relatively shallow neural networks. Today, I can run complex deep learning models on my laptop using cloud computing servers. As a result of these developments, whereas 10 years ago one would have needed a small (or large) research team to explore certain research questions, much of this can now be automated and be done by a single researcher. For researchers without access to large research grants and without the ability to hire a research team, this has truly been an amazing victory for the democratisation of research.
 
-{{< figure src="/media/img/observatory_screenshots/EDO_API_indicator_table.png" caption="You can already try out our API." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/EDO_API_indicator_table.png" caption="You can already try out our API." numbered="true" >}}
 
 **Do you have a favorite, or most used open governmental or open science data source? What do you think about it?  Could it be improved?**
 
@@ -59,7 +59,7 @@ I have these moments of surprise fairly frequently. To give one example from som
 
 The figure below shows our raw data (18 years of petrol station level daily price data from Western Australia) for low and high income areas, and the increase in the margin following an increase in market concentration (vertical dotted line). The left hand side, low income areas, displays a large increase in the margin (when compared to a control group), whereas the right hand side (high income households) experience no change. In our paper of course we build a fairly data intensive quasi experiment for identification of the treatment effect of changing market concentration on the price margin applied to various demographic groups.
 
-{{< figure src="/media/img/blogposts_2021/retail_margins.png" caption="Surprising findings: market concentration and margin changes for petrol stations." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/retail_margins.png" caption="Surprising findings: market concentration and margin changes for petrol stations." numbered="true" >}}
  
 **Do you have a good example of really good, or really bad use of data science /data curation?**
 
@@ -69,7 +69,7 @@ When the press finds a piece of academic research interesting, often bad things 
 
 In some cases requiring to pre disclose the tests the research is going to run on data helps maintain credibility in many instances. Moreover, I am always a bit suspicious if the authors do not give access to their data for reproduction.
 
-{{< figure src="/media/img/observatory_screenshots/edo_and_zenodo.jpg" caption="Our Economy Data Observatory places all new indicators on Zenodo with a DOI, and asks future individual contributors their data for replication there." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/edo_and_zenodo.jpg" caption="Our Economy Data Observatory places all new indicators on Zenodo with a DOI, and asks future individual contributors their data for replication there." numbered="true" >}}
 
 **What do you see as the greatest challenge with open data in 2021?**
 
@@ -79,7 +79,7 @@ The things I mentioned above about the democratisation of research driven by aut
 
 I think starting with a focused agenda is a good idea. For example, linking up with the Centre for Competition Policy means that we have an initial focus of competition policy relevant economic data. This is still a large domain, but it is one where we have ample expertise. Starting with specific research questions such as linking competition enforcement and merger decisions to related information on innovation and ownership data puts the Economy Data Observatory at the heart of some of the most topical policy questions, such as the role of killer acquisitions (acquisitions with the intent to kill of sources of rival innovation), or common ownership, both of which are increasingly discussed in policy and practitioner circles. Once we established ourselves as a credible source of data in the competition policy community, we can look into joining this up with other policy areas, and also with our other Data Observatories ([Music](https://music.dataobservatory.eu/) and [Green Deal](https://greendeal.dataobservatory.eu/)).
 
-{{< figure src="/media/img/observatory_screenshots/edo_and_zenodo.png" caption="Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)" numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/edo_and_zenodo.png" caption="Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)" numbered="true" >}}
 
 ## Join us
 

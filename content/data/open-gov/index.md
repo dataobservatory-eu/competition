@@ -57,8 +57,8 @@ reviewable and reproducible, which implies open access.
 <table>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?](/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?](/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
 </tr>
 </tbody>
 </table>
@@ -66,8 +66,8 @@ reviewable and reproducible, which implies open access.
 <table>
 <tbody>
 <tr class="even">
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1533580909002-a2f298d005eb.jpg" caption="[Is There Value in It?](/data/open-gov/#is-there-value-left-in-open-data) </br>If it’s money on the street, why nobody’s picking it up?" numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1605143185650-77944b152643.jpg" caption="[Datasets Should Work Together to Give Information](/data/open-gov/#data-integration)</br>Data is only potential information, raw and unprocessed." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/photo-1533580909002-a2f298d005eb.jpg" caption="[Is There Value in It?](/data/open-gov/#is-there-value-left-in-open-data) </br>If it’s money on the street, why nobody’s picking it up?" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/photo-1605143185650-77944b152643.jpg" caption="[Datasets Should Work Together to Give Information](/data/open-gov/#data-integration)</br>Data is only potential information, raw and unprocessed." numbered="false" >}}</td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@ hands, unviewed by human eyes, un-thought-about by human minds.”* [1]
 - Often, you need to put more than \$100 value of [work](#is-there-value-left-in-open-data) into processing, validating, documenting a dataset that is worth \$100. But you can share this investment with our data observatories.
 - Open data is almost always lacking of documentation, and no clear references to validate if the data is reliable or not corrupted. This is why we always [start](#open-data-value-added) with reprocessing and redocumenting. 
 
-{{< figure src="/media/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our review of about 80 EU, UN and OECD data observatories reveals that most of them do not use these organizations's open data - instead they use various, and often not well processed proprietary sources." numbered="false" >}}
+{{< figure src="/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our review of about 80 EU, UN and OECD data observatories reveals that most of them do not use these organizations's open data - instead they use various, and often not well processed proprietary sources." numbered="false" >}}
 
 Read more: [Open Data - The New Gold Without the
 Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/)
@@ -140,7 +140,7 @@ anyone actually being informed by it.” ^[2]
     with other data, or easy to join into databases, together with
     standardized metadata.
     
-{{< figure src="/media/img/slides/automated_observatory_value_chain.jpg" caption="Our service flow and value chain" numbered="false" >}}
+{{< figure src="/img/slides/automated_observatory_value_chain.jpg" caption="Our service flow and value chain" numbered="false" >}}
 
 ## FAQ {#open-data-faq}
 

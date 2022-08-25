@@ -46,7 +46,7 @@ There is, both from an ecological and a societal point of view, an urgent need f
 
 Let me give one example: the [AMECO annual macro-economic database](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/macro-economic-database-ameco/ameco-database_en) is great for long-term historical analyses but its components ought to be real-time available. As an anecdote, as a fund manager in emerging markets we needed to anticipate macro-economic evolutions and in particular the manner in which capital markets anticipate these evolutions by adjusting foreign exchange rates or positioning themselves along yield curves. To some extent, we needed to predict what AMECO would tell us one year later by means of any real-time trustworthy assessments of the financial or economic situation. The latter data is what we would ideally have in an observatory.
 
-{{< figure src="/media/img/blogposts_2021/AMECO_screenshot.png" caption="To some extent, we needed to predict what [AMECO](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/macro-economic-database-ameco/ameco-database_en) would tell us one year later by means of any real-time trustworthy assessments of the financial or economic situation. The latter data is what we would ideally have in an observatory." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/AMECO_screenshot.png" caption="To some extent, we needed to predict what [AMECO](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/macro-economic-database-ameco/ameco-database_en) would tell us one year later by means of any real-time trustworthy assessments of the financial or economic situation. The latter data is what we would ideally have in an observatory." numbered="true" >}}
 
 **Is there a piece of information that recently surprised you? What was it?**
 
@@ -56,7 +56,7 @@ I am currently working on water-related issues and came across a result reported
 
 Again: spatial distribution matters...
 
-{{< figure src="/media/img/blogposts_2021/photo-1503754163129-a02a0c097de0.jpg" caption="Photo: Kees Streefkerk, [Unplash License](https://unsplash.com/license)" numbered="true" >}}
+{{< figure src="/img/blogposts_2021/photo-1503754163129-a02a0c097de0.jpg" caption="Photo: Kees Streefkerk, [Unplash License](https://unsplash.com/license)" numbered="true" >}}
 
 **From your experience, what do you think the greatest problem with open data in 2021 will be?**
 
@@ -66,7 +66,7 @@ Trust. In a society where “value” and even “truth” is determined more by
 
 If I may refer to the previous answer: credibility is enhanced through cross-links between different data from different domains that “does not disprove” one another or that is internally consistent. If, say, data on taxable income goes in one direction and taxes in another, it is the reasoned reconciliation of the - alleged or real - inconsistency that will validate the comprehensive data set. So I am a great believer in broad, real-time observatories where not only the data capture, but the data reconciliation is automated, sometimes by means of a simple comparative statics analysis, in other cases maybe through quite elaborate artificial intelligence.
 
-{{< figure src="/media/img/observatory_screenshots/edo_and_zenodo.png" caption="Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)" numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/edo_and_zenodo.png" caption="Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)" numbered="true" >}}
 
 ## Join us
 

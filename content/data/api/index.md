@@ -59,7 +59,7 @@ The **Competition Data Observatory** temporarily shares an API with the [Economy
 
 The indicator table contains the actual values, and the various estimated/imputed values of the indicator, clearly marking missing values, too.
 
-{{< figure src="/media/img/observatory_screenshots/EDO_API_indicator_table.png" caption="api.economy.dataobservatory.eu: indicator retrieval" numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/EDO_API_indicator_table.png" caption="api.economy.dataobservatory.eu: indicator retrieval" numbered="true" >}}
 
 You can get the data in [CSV](http://52.4.54.69/database/indicator.csv?_size=max) or [json](http://52.4.54.69/database/indicator.json) format, or write SQL querries. (Tutorials in SQL, R, Python will be posted shortly.)
 
@@ -71,7 +71,7 @@ You can get the data in [CSV](http://52.4.54.69/database/indicator.csv?_size=max
 
 The [metadata table](http://52.4.54.69/database/metadata) contains various data processing information, such as the first and last actual observation of the indicator, the number of approximated, forecasted, backcasted values, last update at source and in our system, and so on. 
 
-{{< figure src="/media/img/observatory_screenshots/EDO_API_metadata_table.png" caption="api.economy.dataobservatory.eu: processing metadata" numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/EDO_API_metadata_table.png" caption="api.economy.dataobservatory.eu: processing metadata" numbered="true" >}}
 
 
 ## Authoritative Copies 

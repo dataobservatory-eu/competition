@@ -27,7 +27,7 @@ image:
 
 ---
 
-{{< figure src="/media/img/package_screenshots/regions_017_169.png" numbered="false" >}}
+{{< figure src="/img/package_screenshots/regions_017_169.png" numbered="false" >}}
 
 The new version of our [rOpenGov](https://ropengov.org/) R package
 [regions](https://regions.dataobservatory.eu/) was released today on
@@ -50,7 +50,7 @@ control of model parameters and errors, and the number of observations
 grows from 20 to 200-300.
 
 
-{{< figure src="/media/img/blogposts_2021/indicator_with_map.png" caption="The change from national to sub-national level comes with a huge data processing price: internal administrative boundaries, their names, codes codes change very frequently." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/indicator_with_map.png" caption="The change from national to sub-national level comes with a huge data processing price: internal administrative boundaries, their names, codes codes change very frequently." numbered="true" >}}
 
 Yet the change from national to sub-national level comes with a huge
 data processing price. While national boundaries are relatively stable,
@@ -62,7 +62,7 @@ and boundary definitions of sub-national regions change very frequently.
 Joining data from different sources and different years can be very
 difficult.
 
-{{< figure src="/media/img/blogposts_2021/recoded_indicator_with_map.png" caption="Our [regions R package](https://regions.dataobservatory.eu/) helps the data processing, validation and imputation of sub-national, regional datasets and their coding." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/recoded_indicator_with_map.png" caption="Our [regions R package](https://regions.dataobservatory.eu/) helps the data processing, validation and imputation of sub-national, regional datasets and their coding." numbered="true" >}}
 
 There are numerous advantages of switching from a national level of the
 analysis to a sub-national level comes with a huge price in data

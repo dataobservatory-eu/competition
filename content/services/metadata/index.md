@@ -59,7 +59,7 @@ Organizations pay many times for the same, repeated work, because these boring t
 
 Updating descriptive metadata, such as bibliographic citation files, descriptions and sources to data files downloaded from the internet, versioning spreadsheet documents and presentations is usually a hated and often neglected task withing organization, and rightly so: these boring and error-prone tasks are best left to computers. 
 
-{{< figure src="/media/img/gems/n-RFId0_7kep4-unsplash.jpg" caption="Already adjusted spreadsheets are re-adjusted and re-checked. Hours are spent on looking for the right document with the rigth version. Duplicates multiply. Already downloaded data is downloaded again, and miscategorized, again. Finding the data without map is a treasure hunt. Photo: © [N.](https://unsplash.com/photos/RFId0_7kep4?utm_source=unsplash)" numbered="false" >}}
+{{< figure src="/img/gems/n-RFId0_7kep4-unsplash.jpg" caption="Already adjusted spreadsheets are re-adjusted and re-checked. Hours are spent on looking for the right document with the rigth version. Duplicates multiply. Already downloaded data is downloaded again, and miscategorized, again. Finding the data without map is a treasure hunt. Photo: © [N.](https://unsplash.com/photos/RFId0_7kep4?utm_source=unsplash)" numbered="false" >}}
 
 The lack of time and resources spend on documentation over time reduces reusability and significantly increases data processing and supervision or auditing costs. 
 

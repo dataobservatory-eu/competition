@@ -38,7 +38,7 @@ All the data and the metadata are available as open data, without database use r
 The **Competition Data Observatory** temporarily shares an API with the [Economy Data Observatory](https://economy.dataobservatory.eu/), which serves as an incubator for similar economy-oriented reproducible research resources. 
 
 
-{{< figure src="/media/img/observatory_screenshots/EDO_API_metadata_table.png" caption="api.economy.dataobservatory.eu: processing metadata" numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/EDO_API_metadata_table.png" caption="api.economy.dataobservatory.eu: processing metadata" numbered="true" >}}
 
 ## Descriptive Metadata
 

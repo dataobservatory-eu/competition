@@ -31,7 +31,7 @@ image:
 
 As an academic data scientist whose research focuses on the development of general-purpose algorithmic methods, I work with a range of applications from life sciences to humanities. Population studies play a big role in our research, and often the information that we can draw from public sources - geospatial, demographic, environmental - provides invaluable support. We typically use open data in combination with sensitive research data but some of the research questions can be readily addressed based on open data from statistical authorities such as Statistics Finland or Eurostat.
 
-{{< figure src="/media/img/partners/rOpenGov-intro.png" caption="" numbered="true" >}}
+{{< figure src="/img/partners/rOpenGov-intro.png" caption="" numbered="true" >}}
 
 **In your ideal data world, what would be the ultimate dataset, or datasets that you would like to see in the Music Data Observatory?**
 
@@ -45,7 +45,7 @@ Joining the challenge was a natural development based on our overall activities 
 
 Regarding open government data, one of my favorites is not a single data source but a data representation standard. The [px format](https://www.scb.se/en/services/statistical-programs-for-px-files/#:~:text=PX%20is%20a%20standard%20format,and%20data.) is widely used by statistical authorities in various countries, and this has allowed us to create R tools that allow the retrieval and analysis of official statistics from many countries across Europe, spanning dozens of statistical institutions. Standardization of open data formats allows us to build robust algorithmic tools for downstream data analysis and visualization.  Open government data is still too often shared in obscure, non-standard or closed-source file formats and this is creating significant bottlenecks for the development of scalable and interoperable AI and machine learning methods that can harness the full potential of open data.
 
-{{< figure src="/media/img/developers/PxWeb.png" caption="Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format." numbered="true" >}}
+{{< figure src="/img/developers/PxWeb.png" caption="Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format." numbered="true" >}}
 
 
 **From your perspective, what do you see being the greatest problem with open data in 2021?**
@@ -56,14 +56,14 @@ Although there are a variety of open data sources available (and the numbers con
 
 The role of the professional network backing up the project, and the possibility of getting critical feedback and later adoption by the academic communities will support the efforts. Transparency of the data harmonization operations is the key to credibility, and will be further supported by concrete benchmarks that highlight the critical differences in drawing conclusions based on original sources versus the harmonized high-quality data sets.
 
-{{< figure src="/media/img/observatory_screenshots/greendeal_and_zenodo.png" caption="We need to get critical feedback and later adoption by the academic communities." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/greendeal_and_zenodo.png" caption="We need to get critical feedback and later adoption by the academic communities." numbered="true" >}}
 
 
 **How we can ensure the long-term sustainability of the efforts?**
 
 The extent of open data space is such that no single individual or institution can address all the emerging needs in this area. The open developer networks play a huge role in the development of algorithmic methods, and strong communities have developed around specific open data analytical environments such as R, Python, and Julia. These communities support networked collaboration and provide services such as software peer review. The long-term sustainability will depend on the support that such developer communities can receive, both from individual contributors as well as from institutions and governments. 
 
-{{< figure src="/media/img/observatory_screenshots/edo_and_zenodo.png" caption="Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)" numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/edo_and_zenodo.png" caption="Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)" numbered="true" >}}
 
 ## Join us
 

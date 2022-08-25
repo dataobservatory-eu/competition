@@ -46,7 +46,7 @@ slides: ""
 Most market-based analysis uses standardised industry classifications such as the NACE system in the European Union. Whilst these systems are useful to have a standardised view of the component parts of the economy, these markets are frequently very different from product markets that are defined by demand and supply conditions (literature refers to this as antitrust markets). One of the cornerstones of our Data Observatory is automating the construction and updating of a system of antitrust markets. This can be done from available antitrust market decisions. For example Affeldt et al. (2021) manually identified 20,000 product/geographic antitrust markets affected by over 2,000 mergers from DG COMP merger decisions. Automating this process will create a continuously updated source of market definitions that can directly benefit a number of users, such as small businesses caught up in costly merger litigations, academics, policy organisations. This new market classification system could also contribute to the topical debate on increasing market concentration and markups (where most current analysis uses standard industry classification systems).
 Under the umbrella of our Antitrust Market Classification (AMC) and under a standard industry classification (NACE) we will create three company-level tracker datasets: 
 
-{{< figure src="/media/img/blogposts_2021/nace_antitrust_map.png" caption="Computational Antitrust Project Plan" numbered="true" >}}
+{{< figure src="/img/blogposts_2021/nace_antitrust_map.png" caption="Computational Antitrust Project Plan" numbered="true" >}}
 
 ## Merger tracker {#merger-tracker}
 

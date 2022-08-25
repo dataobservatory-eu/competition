@@ -70,7 +70,7 @@ file formatting legacy.
 -   *Missing case harmonization* means that various forms of missingness
     are treated the same way.
 
-{{< figure src="/media/img/blogposts_2021/arab_barometer_5_evon_eval_by_country.png" caption="For the evaluation of the economic situation dataset, get the country averages and aggregates from [Zenodo](http://doi.org/10.5281/zenodo.5036432), and the plot in `jpg` or `png` from [figshare](https://figshare.com/articles/figure/arab_barometer_5_econ_eval_by_country_png/14865498)." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/arab_barometer_5_evon_eval_by_country.png" caption="For the evaluation of the economic situation dataset, get the country averages and aggregates from [Zenodo](http://doi.org/10.5281/zenodo.5036432), and the plot in `jpg` or `png` from [figshare](https://figshare.com/articles/figure/arab_barometer_5_econ_eval_by_country_png/14865498)." numbered="true" >}}
 
 In our new [Arab Barometer case
 study](https://retroharmonize.dataobservatory.eu/articles/arabbarometer.html),
@@ -129,7 +129,7 @@ code them consistently `1: free_and_fair`, `2: some_minor_problems`,
 
 Of course, this harmonization is essential to get clean results like this:
 
-{{< figure src="/media/img/blogposts_2021/arabb-comparison-country-chart.png" caption="For evaluation or reuse of parliamentary elections dataset get the replication data and the code from the [Zenodo](hhttps://doi.org/10.5281/zenodo.5034759) open repository." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/arabb-comparison-country-chart.png" caption="For evaluation or reuse of parliamentary elections dataset get the replication data and the code from the [Zenodo](hhttps://doi.org/10.5281/zenodo.5034759) open repository." numbered="true" >}}
 
 In our case study, we had three forms of missingness: the respondent
 *did not know* the answer, the respondent *did not want* to answer, and

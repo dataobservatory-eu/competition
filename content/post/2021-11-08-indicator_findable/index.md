@@ -33,7 +33,7 @@ This dataset comes from a public datasource, the data warehouse of the
 European statistical agency, Eurostat. Yet it is not trivial to use:
 unless you are familiar with national accounts, you will not find [this dataset](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sbs_na_1a_se_r2&lang=en) on the Eurostat website. 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/eurostat_radio_broadcasting_turnover.png" caption="The data can be retrieved from the Annual detailed enterprise statistics for services NACE Rev.2 H-N and S95 Eurostat folder." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/eurostat_radio_broadcasting_turnover.png" caption="The data can be retrieved from the Annual detailed enterprise statistics for services NACE Rev.2 H-N and S95 Eurostat folder." numbered="false" >}}</td>
 
 Our version of this statistical indicator is documented following the [FAIR principles](https://www.go-fair.org/fair-principles/): our data assets
 are findable, accessible, interoperable, and reusable. While the
@@ -49,7 +49,7 @@ national accounts, which imply decyphering national account data codes in record
 
 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/zenodo_metadata_eurostat_radio_broadcasting_turnover.png" caption="We [added descriptive metadata](https://zenodo.org/record/5652113#.YYkVBWDMKUk) that help you find our data and match it with other relevant data sources." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/zenodo_metadata_eurostat_radio_broadcasting_turnover.png" caption="We [added descriptive metadata](https://zenodo.org/record/5652113#.YYkVBWDMKUk) that help you find our data and match it with other relevant data sources." numbered="false" >}}</td>
 
 We added descriptive metadata that help you find our data and match it
 with other relevant data sources. For example, we add keywords and
@@ -84,7 +84,7 @@ a reproducible workflow is not used, data integrity can also be compromised:
 chances are that the process of tidying will overwrite, delete, or omit a data or a label.
 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/tidy-8.png" caption="[Tidy datasets](https://r4ds.had.co.nz/tidy-data.html) are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/tidy-8.png" caption="[Tidy datasets](https://r4ds.had.co.nz/tidy-data.html) are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table." numbered="false" >}}</td>
 
 While the original data source, the Eurostat data warehouse is
 accessible, too, we added value with bringing the data into a [tidy
@@ -97,7 +97,7 @@ plotting in Excel, OpenOffice or Numbers.
 
 Our data can be easily imported with, or joined with data from other internal or external sources.
 
-<td style="text-align: center;">{{< figure src="/media/img/observatory_screenshots/DMO_API_metadata_table.png" caption="All our indicators come with standardized descriptive metadata, and statistical (processing) metadata. See our [API](https://api.music.dataobservatory.eu/database/metadata/) " numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/observatory_screenshots/DMO_API_metadata_table.png" caption="All our indicators come with standardized descriptive metadata, and statistical (processing) metadata. See our [API](https://api.music.dataobservatory.eu/database/metadata/) " numbered="false" >}}</td>
 
 All our indicators come with standardized descriptive metadata,
 following two important standards, the [Dublin Core](https://dublincore.org/) and
@@ -107,7 +107,7 @@ connect the data with other data sources, e.g. turnover with the number of radio
 
 Our passion for documentation standards and best practices goes much further: our data uses [Statistical Data and Metadata eXchange](https://sdmx.org/?page_id=3215/) standardized codebooks, unit descriptions and other statistical and administrative metadata.
 
-<td style="text-align: center;">{{< figure src="/media/img/reports/european_visbility_publication.png" caption="We participate in [scientific work](https://reprex.nl/publication/european_visibilitiy_2021/) related to data interoperability." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/reports/european_visbility_publication.png" caption="We participate in [scientific work](https://reprex.nl/publication/european_visibilitiy_2021/) related to data interoperability." numbered="false" >}}</td>
 
 ## Reuse
 
