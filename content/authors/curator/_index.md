@@ -47,9 +47,14 @@ education:
     - course: BSc in International Relations
       institution: Other University
       year: 2010
+      
+#    - course: uncomment with removing '# ' and add course here
+#      institution: after uncommenting add the institution's name here
+#      year: 2010 after uncommenting please add the date
 
 # Please place your credentials below by changing this template.
-# Uncomment optional badges / links
+# Uncomment optional badges / links by deleting the '# ' part.
+# Do not give email addresses. All correspondence will come via a form to avoid spam.
 social:
 - icon: envelope
   icon_pack: fas
