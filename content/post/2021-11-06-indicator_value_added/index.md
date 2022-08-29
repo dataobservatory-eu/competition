@@ -7,8 +7,14 @@ draft: false
 
 authors: ["daniel_antal"]
 
-tags: ["Digital Music Observatory","data-as-service", "API", "metadata", "forecasting", "missing data"]
-
+tags: 
+ - Digital Music Observatory
+ - Data-as-Service
+ - API
+ - Metadata
+ - Forecasting
+ - Missing data
+ 
 summary: "Public data sources are often plagued with missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information which will destroy your beautiful visualization or stop your application from working. In this example we show how we increase the usable subset of a public dataset by 66.7%, rendering useful what would otherwise have been a deal-breaker in panel regressions or machine learning applications."
 
 projects: ""
@@ -21,13 +27,10 @@ image:
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
-
-  # Show image only in page previews?
   preview_only: true
-
 ---
 
-Public data sources are often plagued by missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information. This approach of ignoring or dropping missing values will not be feasible or robust when you want to make a beautiful visualization, or use data in a business forecasting model, a machine learning (AI) applicaton, or a more complex scientific model. All of the above require complete datasets, and naively discarding missing data points amounts to an excessive waste of information. In this example we are continuing the example a not-so-easy to find public dataset.
+Public data sources are often plagued by missing values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information. This approach of ignoring or dropping missing values will not be feasible or robust when you want to make a beautiful visualization, or use data in a business forecasting model, a machine learning (AI) application, or a more complex scientific model. All of the above require complete datasets, and naively discarding missing data points amounts to an excessive waste of information. In this example we are continuing the example a not-so-easy to find public dataset.
 
 <td style="text-align: center;">{{< figure src="/img/blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash.jpg" caption="[In the previous blogpost](/post/2021-11-08-indicator_findable/) we explained how we added value by documenting data following the *FAIR* principle and with the professional curatorial work of placing the data in context, and linking it to other information sources, such as other datasets, books, and publications, regardless of their natural language (i.e., whether these sources are described in English, German, Portugese or Croatian). Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)." numbered="false" >}}</td>
 

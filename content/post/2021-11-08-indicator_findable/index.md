@@ -47,8 +47,6 @@ Our data observatories add value by curating the data--we bring this
 indicator to light with a more descriptive name, and we place it in a domain-specific context with our [Digital Music Observatory](https://music.dataobservatory.eu/) and [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/) and a policy-specific context with our *Competition Data Observatory* and *Green Deal Data Observatory*. While many people may need this dataset in the creative sectors, or among cultural policy designers, most of them have no training in working with
 national accounts, which imply decyphering national account data codes in records that measure economic activity at a national level. Our curated data observatories bring together many available data around important domains. Our *Digital Music Observatory*, for example, aims to form an ecosystem of music data users and producers.
 
-
-
 <td style="text-align: center;">{{< figure src="/img/blogposts_2021/zenodo_metadata_eurostat_radio_broadcasting_turnover.png" caption="We [added descriptive metadata](https://zenodo.org/record/5652113#.YYkVBWDMKUk) that help you find our data and match it with other relevant data sources." numbered="false" >}}</td>
 
 We added descriptive metadata that help you find our data and match it

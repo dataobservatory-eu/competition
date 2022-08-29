@@ -49,16 +49,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/antaldaniel
+  link: https://twitter.com/DigitalMusicObs
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5712-2103
-- icon: ssrn
-  icon_pack: ai
-  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Is3IOGEAAAAJ&hl=en
+#- icon: ssrn
+#  icon_pack: ai
+#  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=Is3IOGEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/antaldaniel
