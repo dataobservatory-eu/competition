@@ -6,7 +6,11 @@ subtitle: Joining data from several, differently coded SPSS files.
 summary: Retrospective survey harmonization allows the comparison of opinion poll data conducted in different countries or time.  In this example we are working with data from surveys that were ex ante harmonized to a certain degree – in our tutorials we are choosing questions that were asked in the same way in many natural languages.  For example, you can compare what percentage of the European people in various countries, provinces and regions thought climate change was a serious world problem back in 2013, 2015, 2017 and 2019.
 
 # Link this post with a project
-projects: []
+projects:
+ - Automated monitoring 
+ 
+software: 
+ - retroharmonize
 
 # Date published
 date: "2021-03-04T00:00:00Z"
@@ -21,7 +25,6 @@ draft: false
 featured: false
 
 # Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Harmonized survey data example from Afrobarometer (see [tutorial](https://retroharmonize.dataobservatory.eu/articles/afrobarometer.html)'
   focal_point: ""
@@ -32,8 +35,8 @@ authors:
 - daniel_antal
 
 tags:
-- retrospective-harmonization
-- surveys
+- Retrospective harmonization
+- Surveys
 
 categories:
 - R-bloggers
@@ -49,6 +52,8 @@ the same way in many natural languages. For example, you can compare
 what percentage of the European people in various countries, provinces
 and regions thought climate change was a serious world problem back in
 2013, 2015, 2017 and 2019.
+
+{{<toc>}}
 
 We developed the
 [retroharmonize](https://retroharmonize.dataobservatory.eu/) R package
@@ -88,7 +93,7 @@ to work with labelled data, such as SPSS’s method to store categorical
 data in the [Introduction to
 labelled](http://larmarange.github.io/labelled/articles/intro_labelled.html).
 
-{{< figure src="img/larmarange_approaches_to_labelled.png" caption="Two main approaches of labelled data conversion." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/larmarange_approaches_to_labelled.png" caption="Two main approaches of labelled data conversion." numbered="true" >}}
 
 Our approach is a further extension of **Approach B**. Survey
 harmonization in our case always means the joining data from several

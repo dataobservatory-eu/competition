@@ -27,14 +27,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: CEEMID
-      tag: CEEMID
-    - name: Listen Local
-      tag: Listen Local
-    - name: OpenMuse
-      tag: OpenMuse
-    - name: MusicAIRE
-      tag: MusicAIRE
+    - name: Monitoring
+      tag: Automated monitoring
+    - name: Greenwashing
+      tag: Greenwashing
+    - name: Zero Price Platforms
+      tag: Zero price platforms
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

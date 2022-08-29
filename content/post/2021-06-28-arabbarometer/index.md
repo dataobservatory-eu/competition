@@ -7,7 +7,12 @@ draft: false
 
 authors: ["daniel_antal"]
 
-tags: ["open-data", "open-science", "R", "data collection", "Arab Barometer", "survey harmonization"]
+tags: 
+ - Open data
+ - Open Science
+ - Arab Barometer
+ - survey harmonization
+ - R
 
 summary: "A new version of the retroharmonize R package – which is working with retrospective, ex post harmonization of survey data – was released yesterday after peer-review on CRAN. It allows us to compare opinion polling data from the Arab Barometer with the Eurobarometer and Afrorbarometer. This is the first version that is released in the rOpenGov community, a community of R package developers on open government data analytics and related topics."
 
@@ -29,6 +34,7 @@ image:
 
 *A new version of the retroharmonize R package – which is working with retrospective, ex post harmonization of survey data – was released yesterday after peer-review on CRAN. It allows us to compare opinion polling data from the Arab Barometer with the Eurobarometer and Afrorbarometer. This is the first version that is released in the rOpenGov community, a community of R package developers on open government data analytics and related topics.*
 
+{{<toc>}}
 
 Surveys are the most important data sources in social and economic
 statistics – they ask people about their lives, their attitudes and
@@ -164,7 +170,7 @@ blogpost suggest. Retrospective survey harmonization is a far more complex task 
 for researchers to comapre our harmonized results with theirs, and
 improve our software.
 
-### Use our software
+## Use our software
 
 The `retroharmonize` R package can be freely used, modified and
 distributed under the GPL-3 license. For the main developer and
@@ -177,7 +183,7 @@ R package version 0.1.17. <https://doi.org/10.5281/zenodo.5034752>
 
 Download the {{< staticref "/media/bibliography/cite-retroharmonize.bib" "newtab" >}}BibLaTeX entry{{< /staticref >}}.
 
-### Tutorial to work with the Arab Barometer survey data
+## Tutorial to work with the Arab Barometer survey data
 
 Daniel Antal, & Ahmed Shaibani. (2021, June 26). Case Study: Working
 With Arab Barometer Surveys for the retroharmonize R package (Version
@@ -192,7 +198,7 @@ retroharmonize R Package Case Study: Working With Arab Barometer Surveys
 (Version 0.1.6) \[Data set\]. Zenodo.
 <https://doi.org/10.5281/zenodo.5034741>
 
-### Experimental API
+## Experimental API
 
 We are also experimenting with the automated placement of authoritative
 and citeable figures and datasets in open repositories. For the climate
@@ -204,7 +210,7 @@ metadata meeting the *Dublin Core* and *DataCite* standards, and further
 administrative metadata for correct coding, joining and further
 manipulating or data, or for easy import into your database.
 
-### Join our open source effort
+## Join our open source effort
 
 Want to help us improve our open data service? Include
 [Lationbarómetro](https://www.latinobarometro.org/lat.jsp) and the

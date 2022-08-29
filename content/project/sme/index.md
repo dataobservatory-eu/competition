@@ -8,10 +8,10 @@ date: "2021-05-12T00:00:00Z"
 # Tags: can be used for filtering projects.
 tags: 
 - SME
-- microenterprise
-- open-data
-- open government
-- open science
+- Microenterprise
+- Open data
+- Open government
+- Open science
 
 links:
 - icon: twitter

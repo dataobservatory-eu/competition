@@ -33,6 +33,8 @@ Public data sources are often plagued by missng values. Naively you may think th
 
 Completing missing datapoints requires statistical production information (why might the data be missing?) and data science knowhow (how to impute the missing value.) If you do not have a good statistician or data scientist in your team, you will need high-quality, complete datasets. This is what our automated data observatories provide.
 
+{{< toc >}}
+
 ## Why is data missing?
 
 International organizations offer many statistical products, but usually they are on an ‘as-is’ basis. For example, Eurostat is the world’s premiere statistical agency, but it has no right to overrule whatever data the member states of the European Union, and some other cooperating European countries give to them. And they cannot force these countries to hand over data if they fail to do so. As a result, there will be many data points that are missing, and often data points that have wrong (obsolete) descriptions or geographical dimensions. We will show the geographical aspect of the problem in a separate blogpost; for now, we only focus on missing data.
@@ -78,6 +80,12 @@ If you work in an academic institution, in an NGO or a consultancy, you can neve
 
 We have a better solution. You can always rely on our API to import directly the latest, best data, but if you want to be sure, you can use our [regular backups](https://zenodo.org/record/5652118#.YYhGOGDMLIU) on Zenodo. Zenodo is an open science repository managed by CERN and supported by the European Union. On Zenodo, you can find an authoritative copy of our indicator (and its previous versions) with a digital object identifier, in this case, [10.5281/zenodo.5652118](https://doi.org/10.5281/zenodo.5652118). These datasets will be preserved for decades, and nobody can manipulate them. You cannot accidentally overwrite them, and we have no backdoor access to modify them.
 
+## Get the data
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5652118.svg)](https://doi.org/10.5281/zenodo.5652118)
 
-*Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please  give us any [feedback](https://reprex.nl/#contact)!*
+## Howe could we serve you better?
+
+{{< spoiler text="Are you a data user?" >}}
+*Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please get in touch with [us](https://reprex.nl/#contact)!*
+{{< /spoiler >}}

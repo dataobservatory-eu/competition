@@ -39,7 +39,7 @@ to R objects with the haven package; however, we needed to re-design
 [haven’s](https://haven.tidyverse.org/)
 [labelled\_spss](https://haven.tidyverse.org/reference/labelled_spss.html)
 class to maintain far more metadata, which, in turn, a modification of
-the [labelled]() class. The haven package was designed and tested with
+the [labelled](https://retroharmonize.dataobservatory.eu/articles/labelled_spss_survey.html) class. The haven package was designed and tested with
 data stored in individual SPSS files.
 
 The author of labelled, Joseph Larmarange describes two main approaches

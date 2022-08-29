@@ -1,11 +1,13 @@
 ---
-title: Competition
+title: Automated Monitoring
 summary: Mapping data between antitrust and economic activity markets
 tags:
-- competition
-- competitiveness
-- innovation
+- Automated monitoring
+- NACE
+- Market monitoring
+
 date: "2021-05-16T00:00:00Z"
+lastmod: "2022-08-29T16:41:00+02:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,9 +26,10 @@ links:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/company/78562153
-- icon: globe
+- icon: database
   icon_pack: fas
-  link: https://dataobservatory.eu/#observatories
+  link: https://zenodo.org/communities/competition_data_observatory/
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

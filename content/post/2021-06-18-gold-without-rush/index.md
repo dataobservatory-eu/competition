@@ -7,8 +7,12 @@ draft: false
 
 authors: ["daniel_antal"]
 
-tags: ["open-data", "open-science", "R", "data collection"]
-
+tags: 
+ - Open data
+ - Open Science
+ - Data collection
+ - R
+ 
 summary: "If open data is the new gold, why even those who release fail to reuse it? We created an open collaboration of data curators and open-source developers to dig into novel open data sources and/or increase the usability of existing ones. We transform reproducible research software into research- as-service."
 
 projects: ["eu-datathon_2021"]
@@ -30,7 +34,6 @@ image:
 *If open data is the new gold, why even those who release fail to reuse it? We created an open collaboration of data curators and open-source developers to dig into novel open data sources and/or increase the usability of existing ones. We transform reproducible research software into research- as-service.*
 
 Every year, the EU announces that billions and billions of data are now “open” again, but this is not gold. At least not in the form of nicely minted gold coins, but in gold dust and nuggets found in the muddy banks of chilly rivers. There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions.
-
 
 {{< figure src="/img/slides/gold_panning_slide_notitle.png" caption="There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions." numbered="true" >}}
 

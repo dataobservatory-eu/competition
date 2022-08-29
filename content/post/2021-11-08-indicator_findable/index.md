@@ -120,4 +120,6 @@ In the case presented here, we added further value to encourage re-use. In addit
 significantly increased the usability of public data by handling
 missing cases. This is the subject of our [next blogpost](/post/2021-11-06-indicator_value_added/).
 
-*Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please give us any [feedback](https://reprex.nl/#contact)!*
+{{< spoiler text="Are you a data user? How could we serve you better?" >}}
+*Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please get in touch with [us](https://reprex.nl/#contact)!*
+{{< /spoiler >}}
