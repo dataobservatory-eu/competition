@@ -1,36 +1,43 @@
 ---
-title: "stacodelists: n R data package with all the SDMX standard codelists"
-subtitle: "Use standard, language-independent variable codes to help international data interoperability and machine reuse in R"
-date: 2022-06-29T08:12:00+01:00
-lastmod: 2022-08-25T08:20:24+02:00
-draft: false
+title:  "stacodelists: use standard, language-independent variable codes to help international data interoperability and machine reuse in R"
+subtitle:  "An R data package with all the SDMX standard codelists"
+date:  2022-06-29T08:12:00+01:00
+lastmod:  2022-06-29T08:12:00+01:00
+draft:  false
 
-authors: ["daniel_antal"]
+authors:  ["daniel_antal"]
 
-tags: ["R", "metadata", "statistics", "SDMX"]
+doi: 10.5281/zenodo.6751783
 
-summary: "A new building block of our observatories went through code peer review and was released yesterday. The statcodelists R package aim to promote the  reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user."
+tags:  
+ - R
+ - Metadata
+ - SDMX
+ - Codelists
 
-# Featured image
+summary:  "A new building block of our observatories went through code peer review and was released yesterday. The statcodelists R package aim to promote the  reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user."
+
 image:
-  caption: "Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)."
+  caption:  "Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)."
+  focal_point:  "Center"
+  preview_only:  true
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: "Center"
-
-  # Show image only in page previews?
-  preview_only: true
-
+categories:
+- R-bloggers
 ---
-
-<td style="text-align: center;">{{< figure src="/img/blogposts_2022/statcodelists_0_9_2.png" caption="Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2022/statcodelists_website.png" caption="Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)." numbered="false" >}}</td>
 
 <!-- badges: start -->
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6751783.svg)](https://doi.org/10.5281/zenodo.6751783)
+[![dataobservatory](https://img.shields.io/badge/ecosystem-dataobservatory.eu-3EA135.svg)](https://dataobservatory.eu/)
 <!-- badges: end -->
 
-The goal of `statcodelists` is to promote the reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user. SDMX – the [Statistical Data and Metadata eXchange](https://sdmx.org/) has been published as an ISO International Standard (ISO 17369). The metadata definitions, including the codelists are updated regularly according to the standard. The authoritative version of the code lists made available in this package is <https://sdmx.org/?page_id=3215/>.
+The goal of `statcodelists` is to promote the reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user. SDMX – the [Statistical Data and Metadata eXchange](https://sdmx.org/) has been published as an ISO International Standard (ISO 17369). The metadata definitions, including the codelists are updated regularly according to the standard. The authoritative version of the code lists made available in this package is <https://sdmx.org/?page_id=3215/>. 
+
+{{< spoiler text="Click to expand table of contents of the post" >}}
+{{<toc>}}
+{{< /spoiler >}}
+
+
 
 ## Purpose
 
@@ -38,7 +45,7 @@ Cross-domain concepts in the SDMX framework describe concepts relevant to many, 
 
 Code lists are predefined sets of terms from which some statistical coded concepts take their values. SDMX cross-domain code lists are used to support cross-domain concepts. What are these cross-domain coded concepts?  
 
-- Geographical codes, like `NL`: the Netherlands in the [CL_AREA](https://statcodelists.dataobservatory.eu/reference/CL_AREA.html) code list.
+- Geographical codes, like `NL`:  the Netherlands in the [CL_AREA](https://statcodelists.dataobservatory.eu/reference/CL_AREA.html) code list.
 - Standard industry codes `J631` for Data processing, hosting and related activities in Europe. ([NACE Rev 2](https://statcodelists.dataobservatory.eu/reference/CL_ACTIVITY_NACE2.html) in Europe, beware, it is `J592`in Australia and New Zealand, see [CL_ACTIVITY_ANZSIC06](https://statcodelists.dataobservatory.eu/reference/CL_ACTIVITY_ANZSIC06.html).)
 - Occupations, like `OC2521` for `Database designers and administrators` in [CL_OCCUPATIONS](https://statcodelists.dataobservatory.eu/reference/CL_OCCUPATION.html)
 - Time fomatting standards, like `CCYY` for annual data series in [CL_TIME_FORMAT](https://statcodelists.dataobservatory.eu/reference/CL_TIME_FORMAT.html).
@@ -66,3 +73,4 @@ The creator of this package is not affiliated with SDMX, and this package was ha
 ## Code of Conduct
 
 Please note that the `statcodelists` project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
+
