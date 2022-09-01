@@ -1,6 +1,6 @@
 ---
 title: Greenwashing
-summary: Fight greenwashing with reliable evidence.
+summary: Greenwashing refers to false, misleading, overstated or unsubstantiated environmental advertising. We want to help consumers and their agents to  challenge greenwashing with scientific facts.
 tags:
   - Greenwashing
 date: '2022-08-29T04:32:00+02:00'
