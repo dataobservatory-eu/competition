@@ -30,7 +30,7 @@ url_video: ''
 slides: example
 ---
 
-Greenwashing refers to false, misleading, overstated or unsubstantiated environmental advertising (e.g. marketing a product as "eco-friendly," "safe for the environment"). Fighting climate change requires a fundamental change in consumer behavior supported by consumer protection. An important aspect of this change is fighting environmental misinformation, in other words, greenwashing labels that use vague, exaggerated, deceiving environmental attributes.
+`Greenwashing` refers to false, misleading, overstated or unsubstantiated environmental advertising (e.g. marketing a product as "eco-friendly," "safe for the environment"). Fighting climate change requires a fundamental change in consumer behavior supported by consumer protection. An important aspect of this change is fighting environmental misinformation, in other words, greenwashing labels that use vague, exaggerated, deceiving environmental attributes.
 
 Consumers must have trustworthy and accessible information to make sustainable choices, and they must be protected against unfair commercial practices. In the European Union, the Unfair Commercial Practices Directive (UCPD) has been amended with expanding the list of product characteristics about which a trader cannot mislead consumers to cover the environmental or social impact, as well as the durability and reparability. It also opened the door for adding new misleading practices on the basis of a case-by-case assessment. It also contains now a ‘black list' of prohibited practices. Similar questions are raised in other jurisdictions, including the U.S. and the UK, where unfair practices can be challenged on either a consumer protection or competition law basis. 
 
