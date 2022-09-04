@@ -56,3 +56,10 @@ The Reprex website is built with the Hugo **Academic Resumé Template** empowers
 ​
 40
 ## We ask you, humbly, to support this open source movement
+
+Reprex builds open source products, and our friends at Wowchemy do so, too.  You can use Reprex's website, or our observatory websites as a template based on their work.  But we have both worked a lot with it, and therefore, if you use the Wowchemy template, we would like to emphasises the request of the Wowchemy team:
+
+Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+
+We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way. [❤️ Click here to become a Wowchemy GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+
