@@ -22,10 +22,7 @@ Covenant](https://img.shields.io/badge/ethics-Contributor%20Covenant-680171.svg)
 
 🌈 Contribution guidelines - you must abide by the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) Code of Conduct.
 
-This is the website of the [Competition Data Observatory](https://competition.dataobservatory.eu/).
-
-
-This is the repository of the website of [Reprex](https://reprex.nl/), a Netherlands-based reproducible research startup.  We created this website, along with many others, using an open source Hugo template. And we create many [open-source software solutions](https://reprex.nl/software/) ourselves.
+This is the website of the [Competition Data Observatory](https://competition.dataobservatory.eu/). This repository belongs to [Reprex](https://reprex.nl/), a Netherlands-based reproducible research startup.  We created this website, along with many others, using an open source Hugo template. And we create many [open-source software solutions](https://reprex.nl/software/) ourselves.
 
 Our work relies on commissioned work, grants, sponsorship, and the same goes to our friends at Wowchemy.  When you use our free products, please give us proper attribution, and if you can, contribute with work or money to keep our products going. 
 
