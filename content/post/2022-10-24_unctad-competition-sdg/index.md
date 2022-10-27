@@ -20,7 +20,7 @@ projects: ""
 # Featured image
 image:
   # Caption (optional)
-  caption: "Competition law, as a founding stone holds the three pilars of sustainability"
+  caption: "Competition law, as a founding stone holds the three pillars of sustainability"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
