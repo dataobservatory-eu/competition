@@ -1,10 +1,11 @@
 ---
-title:  "Information Exchange Going Digital - Challenges to Hungarian Competition Law Enforcement"
+title:  "Information Exchange Going Digital"
+subtitle: "Challenges to Hungarian Competition Law Enforcement"
 date:  2019-12-19T11:00:00
 lastmod:  2022-04-14T16:00:00
-draft:  false
+draft:  true
 
-authors:  ["Judit Firniksz", "Borbála Dömötörfy*"]
+authors:  ["Judit Firniksz", "borbala_domotorfy"]
 
 # Publication type.
 # Legend:
