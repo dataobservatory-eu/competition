@@ -51,5 +51,5 @@ In the EU, the main goals of competition law—as determined by the EU Courts—
 By promoting healthy competition and the maximization of economic efficiency competition law, therefore, also protects the foundation stone of the UN SDGs. 
 
 <!---
-So....
+So.... what is the conclusion for the Competition Data Observatory?
 --->
