@@ -21,7 +21,7 @@ content:
       background:
         position: right
         color: '#555'
-        brightness: 0.3
+        brightness: 0.5
         media: img/blogposts_2022/reprex-talk-to-all-srt.webp
       link:
         icon: fa-solid fa-right-to-bracket
@@ -38,13 +38,56 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.3
+        brightness: 0.5
         media: img/blogposts_2021/Gold_panning_at_Bonanza_Creek_4x6.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: "Blog: Why is it so hard to work with it?"
         url: ../post/2021-06-18-gold-without-rush/
+    - title: ""
+      content: '</br></br>Our new, vertical observatories bring ESG and antitrust
+      solutions from our domain-specific observatories. The competition observatory
+      is in an early, conceptual phase. We are currently making progress with the
+      ESG reporting issue, which overlap, for example, in providing evidence against
+      greenwashing.'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.3
+        media: slides/slider/ggdo_sdo_cdo_centered_white.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: ""
+        url:
+    - title: ""
+      content: '</br></br></br></br></br></br></br></br></br></br>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.8
+        media: slides/slider/Reprex_ImpactCity_sdg_16_relevance.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "UN SDG 16"
+        url: https://sdgs.un.org/goals/goal16
+    - title: ""
+      content: '</br></br></br></br></br></br></br></br></br></br>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.8
+        media: slides/slider/Reprex_ImpactCity_sdg_17_relevance.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "UN SDG 17"
+        url: https://sdgs.un.org/goals/goal17
     - title: Search Things Not Strings
       content: '**A very cold winter is coming to Europe.**</br>
       [Thermowatt](/authors/thermowatt/) is looking for specific locations in the Hague,
