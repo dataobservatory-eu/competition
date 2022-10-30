@@ -5,27 +5,43 @@
 
 main:
   - name: Home
-    url: '#about'
     weight: 10
     identifier: Home
   - name: About
     url: '#about'
-    weight: 10
+    weight: 11
     parent: Home
+  - name: "In 1 minute"
+    url: '#slider'
+    weight: 12
+    parent: Home
+  - name: News
+    url: 
+    weight: 20
+    identifier: News
   - name: Blog
     url: '#posts'
-    weight: 20
+    weight: 22
+    parent: News
+  - name: Topics
+    url: '#tags'
+    weight: 23
+    parent: News   
   - name: Solutions
     url: '#services'
     weight: 30
     identifier: Solutions
   - name: Apps
-    url: '/project/apps'
+    url: '#apps'
     weight: 31
     parent: Solutions
   - name: Software
     url: '#releases'
     weight: 32
+    parent: Solutions
+  - name: Code
+    url: '/category/r-bloggers/'
+    weight: 34
     parent: Solutions
 #  - name: Use cases
 #    url: '#usecase'
@@ -40,7 +56,7 @@ main:
     weight: 40
     identifier: Data
   - name: Open Science Repository &#128279;
-    url: 'https://zenodo.org/communities/music_observatory'
+    url: 'https://zenodo.org/communities/competition_data_observatory/'
     weight: 41
     parent: Data
   - name: API

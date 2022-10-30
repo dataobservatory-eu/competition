@@ -7,7 +7,7 @@ draft: false
 
 authors: ["leo_lahti"]
 
-tags: ["open-data", "open-science", "reproducible research", "open government", "R"]
+tags: ["Open data", "Open Science", "Reproducible research", "Open government", "R"]
 
 summary: "Although there are a variety of open data sources available (and the numbers continue to increase), the availability of open algorithmic tools to interpret and communicate open data efficiently is lagging behind. One of the greatest challenges for open data in 2021 is to demonstrate how we can maximize the potential of open data by designing smart tools for open data analytics."
 

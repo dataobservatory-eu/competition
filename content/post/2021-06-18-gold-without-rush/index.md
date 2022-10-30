@@ -1,5 +1,5 @@
 ---
-title: "Open Data - The New Gold Without the Rush"
+title: "Open Data: The New Gold Without the Rush"
 subtitle: "Open Data-as-Service"
 date: 2021-06-18T17:00:00
 lastmod: 2021-06-18T17:00:00
@@ -9,13 +9,13 @@ authors: ["daniel_antal"]
 
 tags: 
  - Open data
- - Open Science
+ - Open science
  - Data collection
  - R
  
 summary: "If open data is the new gold, why even those who release fail to reuse it? We created an open collaboration of data curators and open-source developers to dig into novel open data sources and/or increase the usability of existing ones. We transform reproducible research software into research- as-service."
 
-projects: ["eu-datathon_2021"]
+projects: ""
 
 # Featured image
 image:
