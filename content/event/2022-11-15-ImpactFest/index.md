@@ -58,9 +58,12 @@ slides:
 projects: ""
 ---
 
-{{% callout note %}}
-Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ.
-{{% /callout %}}
+{{<youtube bgp-n55TKCk>}}
+Please **share our video message** on [YouTube](https://www.youtube.com/watch?v=bgp-n55TKCk) among your colleagues and friends.
+
+<td style="text-align: center;">{{< figure src="img/blogposts_2022/ImpactCity_cast_your_vote.png" caption="Please vote for REPREX. ([How?](/post/2022-10-29_reprex-talk-to-all/))" numbered="false" >}}</td>
+
+{{< tweet user="CompDataObs" id="1589246698001686529" >}}
 
 The transition towards a sustainable and inclusive economy depends on collaboration. That is why we are bringing together startups, scale-ups, investors, policymakers, and other impact makers from around the world in The Hague for the 7th edition of ImpactFest.
 
