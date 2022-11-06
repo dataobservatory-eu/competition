@@ -30,13 +30,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/EconDataObs
+  link: https://twitter.com/CompDataObs
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/company/78562153
+  link: https://www.linkedin.com/showcase/89334222/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

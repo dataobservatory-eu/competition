@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Vote in The Hague Innovators Challenge!
-      content: '</br></br></br></br></br></br></br></br>'
+      content: '</br></br></br></br>'
       align: left
       background:
         position: top
@@ -26,8 +26,8 @@ content:
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: Scroll ↡ and vote REPREX :)
-        url: https://www.impactcity.nl/en/cast-your-vote-for-the-hague-innovators-challenge-2022/
+        text: "Vote REPREX :)"
+        url: ../post/2022-10-29_reprex-talk-to-all/
     - title: "Open Data: Gold Without Rush"
       content: 'When you need data from the past, it is too late to start 
       collecting it. If you need satellite data, it is unlikely that you
@@ -45,6 +45,66 @@ content:
         icon_pack: fas
         text: "Blog: Why is it so hard to work with it?"
         url: ../post/2021-06-18-gold-without-rush/
+    - title: Search Things Not Strings
+      content: '**A very cold winter is coming to Europe.**</br>
+      [Thermowatt](/authors/thermowatt/) is looking for specific locations in the Hague,
+      then South Holland, then in the Benelux, then in the EU, to pump out the energy from lukewarm wastewater, protecting both your energy costs, the climate, and the       biodiversity of natural water bodies.</br>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.3
+        media: img/blogposts_2022/4249419898_2ed064f29c_o.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Blog: Open Linked Data & Semantic Search for Buildings"
+        url: https://greendeal.dataobservatory.eu/post/2022-10-24_thermowatt/
+    - title: Link Unconnected, Hard-to-use Data
+      content: 'Just weeks before the tragic, but sadly predictable Belgian floods
+      we connected some open, but unprocessed opinion poll data about the perception of 
+      flood risk, hydrological data about the actual risk of flood, and public finance 
+      data in the extremely decentralized country.</br>
+      </br>
+      The data has been there, but it was not in a form that public policymakers,
+      insurers of NGOs could have used directly.'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.5
+        media: img/blogposts_2021/flood_in_belgium.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Blog: Connect Hydrological, Public Finance, and Opinion Poll Data"
+        url: ../post/2021-04-23-belgium-flood-insurance/
+    - title: ""
+      content: '</br></br></br></br></br></br></br>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
+        media: slides/slider/Sustainable_development_goals_16_white.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Scroll ↡ and vote REPREX :)
+        url: ../post/2022-10-29_reprex-talk-to-all/
+    - title: ""
+      content: ''
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.3
+        media: img/slides/panning_open_data_automation_white.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Software solutions"
+        url: ../#releases
     - title: ""
       content: '</br></br>Our new, vertical observatories bring ESG and antitrust
       solutions from our domain-specific observatories. The competition observatory
@@ -69,60 +129,12 @@ content:
         position: center
         color: '#555'
         brightness: 0.8
-        media: slides/slider/Reprex_ImpactCity_sdg_16_relevance.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "UN SDG 16"
-        url: https://sdgs.un.org/goals/goal16
-    - title: ""
-      content: '</br></br></br></br></br></br></br></br></br></br>'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.8
-        media: slides/slider/Reprex_ImpactCity_sdg_17_relevance.webp
+        media: slides/slider/Sustainable_development_goals_17_white.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: "UN SDG 17"
         url: https://sdgs.un.org/goals/goal17
-    - title: Search Things Not Strings
-      content: '**A very cold winter is coming to Europe.**</br>
-      [Thermowatt](/authors/thermowatt/) is looking for specific locations in the Hague,
-      then South Holland, then in the Benelux, then in the EU, to pump out the energy from lukewarm wastewater, protecting both your energy costs, the climate, and the       biodiversity of natural water bodies.</br>'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.3
-        media: img/blogposts_2022/4249419898_2ed064f29c_o.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Blog: Open Linked Data & Semantic Search for Buildings"
-        url: https://greendeal.dataobservatory.eu/post/2022-10-24_thermowatt/
-    - title: Link Unconnected, Hard-to-use Data
-      content: 'Just weeks before the tragic, but sadly predictable Belgian floods
-      we connected some open, but unprocessed opinion poll data about the perception of 
-      flood risk, hydrological data about the actual risk of flood, and public finance 
-      data in the extremely decentralized country.</br>
-      </br>
-      The data has been there, but it was not in a form that public policymakers,
-      insurers of NGOs could have used directly. We are looking for partners to create
-      similar use cases with for computational antitrust researchers or practitioners.'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.5
-        media: img/blogposts_2021/flood_in_belgium.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Blog: Connect Hydrological, Public Finance, and Opinion Poll Data"
-        url: https://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/
     - title: 
       content:  </br></br></br></br></br></br></br></br></br></br></br></br>
       align: left
@@ -177,7 +189,7 @@ content:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: Slides
-        url: /slides/learnr-with-reprex/
+        url: /slides/learnr-with-reprex)
 ---
 
 <!---

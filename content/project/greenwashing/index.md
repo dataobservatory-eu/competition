@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/dataandlyrics
+    url: https://twitter.com/CompDataObs
 url_code: ''
 url_pdf: ''
 url_slides: ''

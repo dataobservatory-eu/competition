@@ -43,10 +43,6 @@ main:
     url: '/category/r-bloggers/'
     weight: 34
     parent: Solutions
-#  - name: Use cases
-#    url: '#usecase'
-#    weight: 34
-#    parent: Solutions
   - name: Code
     url: '/category/r-bloggers/'
     weight: 34
@@ -99,10 +95,6 @@ main:
     url: '#talks'
     weight: 92
     parent: Contact
-  - name: Meetups in Europe
-    url: '/meetup'
-    weight: 93
-    parent: Contact
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
@@ -110,9 +102,3 @@ main:
 #    url: uploads/resume.pdf
 #    weight: 70
 
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
