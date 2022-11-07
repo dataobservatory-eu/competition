@@ -15,19 +15,19 @@ design:
 
 content:
   slides:
-    - title: Vote in The Hague Innovators Challenge!
+    - title: <span style="color:#00348A">The Hague Innovators Challenge Finals 2022</span>
       content: '</br></br></br></br>'
       align: left
       background:
-        position: top
+        position: center
         color: '#555'
-        brightness: 0.3
-        media: slides/slider/cast_your_vote.webp
+        brightness: 1
+        media: slides/slider/reprex-big-data-for-all-right_aligned_white_slide.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: "Vote REPREX :)"
-        url: ../post/2022-10-29_reprex-talk-to-all/
+        url: ../post/2022-11-07_vote_reprex/
     - title: "Open Data: Gold Without Rush"
       content: 'When you need data from the past, it is too late to start 
       collecting it. If you need satellite data, it is unlikely that you

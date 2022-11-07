@@ -11,12 +11,22 @@ tags: ["open-data", "open-science", "regional data", "sub-national data", "R", "
 
 summary: "There are numerous advantages of switching from a national level of the analysis to a sub-national level comes with a huge price in data processing, validation and imputation, and the regions package aims to help this process."
 
-projects: ["eu-datathon_2021"]
+projects:
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CompDataObs"
+  url: https://twitter.com/CompDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Join our collaboration community on LinkedIn
+  link: https://www.linkedin.com/showcase/89334222/
 
 # Featured image
 image:
   # Caption (optional)
-  caption: "Annette Wong"
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

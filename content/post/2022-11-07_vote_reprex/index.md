@@ -38,8 +38,8 @@ tags:
 links:
 - icon: twitter
   icon_pack: fab
-  name: "@DigitalMusicObs"
-  url: https://twitter.com/DigitalMusicObs
+  name: "@CompDataObs"
+  url: https://twitter.com/CompDataObs
 - icon: github
   icon_pack: fab
   name: Open Repo & Code
@@ -47,11 +47,11 @@ links:
 - icon: fingerprint
   icon_pack: fas
   name: Authoritative data
-  link: https://zenodo.org/communities/greendeal_observatory/
+  link: https://zenodo.org/communities/competition_data_observatory/
 - icon: linkedin
   icon_pack: fab
   name: Join our collaboration community on LinkedIn
-  link: https://www.linkedin.com/company/79286750/
+  link: https://www.linkedin.com/showcase/89334222/
 ---
 
 [Reprex](/authors/reprex) is the Hague-based impact startup developing decentralized, modern, web 3.0-compatible data observatories. Our mission is to fulfill parts of the SDG 16 and 17 goals: based on the open collaboration method of open-source software development and open knowledge management, we would like to enable impact makers to contribute to other SDG goals by making AI and big data work for them.

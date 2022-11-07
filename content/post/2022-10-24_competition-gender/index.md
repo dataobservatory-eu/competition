@@ -17,6 +17,16 @@ image:
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Top"
   preview_only: false
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CompDataObs"
+  url: https://twitter.com/CompDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Join our collaboration community on LinkedIn
+  link: https://www.linkedin.com/showcase/89334222/
 ---
 
 The fight for gender equality is one of the defining challenges of the 21st century. Also defined as one of the SDGs (SDG 5) its role in creating peace and prosperity for people and the planet is unquestionable. Competition policy - as an economic policy focusing on undertakings, consumers, regulators, and enforcers - traditionally was considered “gender blind”, until in recent years, gender-inclusive competition policy, and competition policy’s role in achieving gender equality became a hot topic. 

@@ -17,6 +17,16 @@ tags:
 
 projects: ""
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CompDataObs"
+  url: https://twitter.com/CompDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Join our collaboration community on LinkedIn
+  link: https://www.linkedin.com/showcase/89334222/
+
 # Featured image
 image:
   # Caption (optional)

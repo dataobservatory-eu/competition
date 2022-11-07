@@ -17,6 +17,24 @@ summary: "If open data is the new gold, why even those who release fail to reuse
 
 projects: ""
 
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CompDataObs"
+  url: https://twitter.com/CompDataObs
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  link: https://github.com/dataobservatory-eu
+- icon: fingerprint
+  icon_pack: fas
+  name: Authoritative data
+  link: https://zenodo.org/communities/competition_data_observatory/
+- icon: linkedin
+  icon_pack: fab
+  name: Join our collaboration community on LinkedIn
+  link: https://www.linkedin.com/showcase/89334222/
 # Featured image
 image:
   # Caption (optional)

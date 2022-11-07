@@ -7,11 +7,29 @@ draft: false
 
 authors: ["daniel_antal"]
 
-tags: ["metadata","data-as-service", "api"]
+tags: ["Metadata","Open data", "API"]
 
 summary: "Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is the final, checked, approved by a senior manager?"
 
 projects: ""
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CompDataObs"
+  url: https://twitter.com/CompDataObs
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  link: https://github.com/dataobservatory-eu
+- icon: fingerprint
+  icon_pack: fas
+  name: Authoritative data
+  link: https://zenodo.org/communities/competition_data_observatory/
+- icon: linkedin
+  icon_pack: fab
+  name: Join our collaboration community on LinkedIn
+  link: https://www.linkedin.com/showcase/89334222/
 
 # Featured image
 image:
