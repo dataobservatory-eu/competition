@@ -13,7 +13,7 @@ tags:
  - Sustainability
  
 
-#summary: "Healthy competition is necessary to ensure markets work efficiently, and this makes it a prerequisite for achieving UN SDGs. Modern competition law aims to protect and promote efficiency, welfare, economic freedom and protection of competitors, competition structure, fairness, single market integration, and competition process, which make it important foundation stone of SDGs. Big data and data science solutions are essential tool enabling competition law and policy to maximize impact in promoting the SDGs."
+#summary: "Healthy competition is necessary to ensure market efficiency which makes competition law an important foundation stone for achieving UN SDGs. The CDO can be a key partner of impact makers in maximizing the efficiencies of competition law/policy by providing big data and data science solutions."
 
 projects: ""
 
